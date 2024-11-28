@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white"/> <!-- Белый цвет по умолчанию -->
+    <corners android:radius="50sp" /> <!-- Округлые углы (круг) -->
+    <size
+        android:width="12dp"
+        android:height="12dp" /> <!-- Размеры для круглого индикатора -->
+</shape>
+
